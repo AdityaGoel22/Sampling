@@ -45,4 +45,4 @@ pip install jupyter pandas numpy scikit-learn imbalanced-learn
 
   1. Sampling.ipynb: Jupyter notebook containg the code for the above mentioned
   1. ReadMe.md: This file provides an overview of the code
-  1. CrediCard_data.csv: The dataset used in the notebook
+  1. CreditCard_data.csv: The dataset used in the notebook
